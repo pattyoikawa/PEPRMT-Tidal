@@ -1,7 +1,7 @@
 # PEPRMT-Tidal
 PEPRMT-Tidal is a one-dimensional process-based model that predicts gross primary productivity, ecosystem respiration and methane exchange in tidal wetlands at the daily time step
 
-This repo contains all the files needed to run PEPRMT-Tidal, an updated version of the PEPRMT model
+This repo contains all the files needed to run PEPRMT-Tidal, an updated version of the PEPRMT model.
 This model is described in detail in Oikawa et al. In prep
 
 About the model:
